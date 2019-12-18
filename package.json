@@ -1,6 +1,6 @@
 {
   "name": "wc3-objectified-handler",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Loads and saves Promises' wc3 object format",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
